@@ -1,3 +1,4 @@
+//Weather app
 import React from 'react'
 import "./weather.css"
 import Search from "../Assets/search.png"
